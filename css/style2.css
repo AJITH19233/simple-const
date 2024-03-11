@@ -1,0 +1,66 @@
+.carousel-inner{
+    height: 640px;
+}
+#size{
+    background-size: cover;
+}
+#heading{
+    text-align: center;
+}
+#explore{
+    height: 81px;
+    width: 120px;
+}
+.main{
+    background-image: url("../images/loginimg.webp");
+    background-size: cover;
+}
+.my_login {
+    border: 1px solid red;
+    float: right;
+    margin-top: 60px;
+    background-color: beige;
+    height: 30em;
+    padding: 70px;
+    margin-right: 46%;
+}
+
+.my_login h2 {
+    text-align: center;
+}
+#logg {
+    background-color: dodgerblue;
+    width: 100%;
+    border: none;
+    color: white;
+    height: 1.5em;
+}
+#districtimg{
+    background-size: cover;
+}
+#para1{
+    padding-left: 7%;
+    padding-right: 7%;
+ 
+}
+paddi{
+    padding-left: 4%;
+}
+.my_loginss {
+    border: 1px solid red;
+    float: right;
+    margin-top: 60px;
+    background-color: lightseagreen;
+    height: 43em;
+    width: 40em;
+    padding: 90px;
+    margin-right: 25%;
+}
+
+.my_loginss h2 {
+    text-align: center;
+}
+.mains{
+    background-image: url("../images/file99.jpg");
+    background-size: cover;
+}
